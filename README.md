@@ -12,7 +12,7 @@
 
 <!-- Actual text -->
 
-You can find me on Linkedin here https://www.linkedin.com/in/franckrod/
+You can find me on Linkedin here https://www.linkedin.com/in/franckrod/ or via email frank93antoniog@gmail.com
 
 
 
