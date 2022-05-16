@@ -1,14 +1,21 @@
-### Hi there 👋
 
-<!--
-**FranckRod/FranckRod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Software Development Desde Cero from Core Code
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--->
+
+ I’m currently learning Software Development Desde Cero at https://www.core-code.io/
+
+![](https://img.shields.io/badge/Languages-Javascript/TypeScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Languages-HTML/CSS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+
+<!-- Actual text -->
+
+You can find me on Linkedin here https://www.linkedin.com/in/franckrod/
+
+
+
+
+
+
